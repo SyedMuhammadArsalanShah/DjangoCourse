@@ -46,3 +46,6 @@ Here are the basic commands for setting up a Django project and app:
    ```
 
 These commands cover the essential steps to get started with Django.
+
+
+
